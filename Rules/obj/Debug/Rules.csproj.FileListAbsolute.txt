@@ -1,0 +1,4 @@
+\\vicmul21\g49$\Data\Visual Studio 2012\Projects\Game\Game\Rules\bin\Debug\Rules.dll
+\\vicmul21\g49$\Data\Visual Studio 2012\Projects\Game\Game\Rules\bin\Debug\Rules.pdb
+\\vicmul21\g49$\Data\Visual Studio 2012\Projects\Game\Game\Rules\obj\Debug\Rules.dll
+\\vicmul21\g49$\Data\Visual Studio 2012\Projects\Game\Game\Rules\obj\Debug\Rules.pdb
